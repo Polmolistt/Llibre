@@ -1,0 +1,17 @@
+
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Llibre</title>
+    <link rel="stylesheet" href="style.css">
+</head>
+<body  style="background-color: #d5e926a1;">
+    <h1 class="titol1"><strong>El meu llibre digital</strong></h1>
+    <img class="imatge" src="https://www.psicoactiva.com/wp-content/uploads/puzzleclopedia/libro-abierto.png">
+    <br>    </br>
+    <h4 class="nom"><i>Pol Molist</i></h4>
+    <p class="enllaçindex1"><a href="http://127.0.0.1:3000/home/a-1435095044/Escriptori/Llibre/<index llibre>.html">Index</a></p>
+</body>
+</html>
